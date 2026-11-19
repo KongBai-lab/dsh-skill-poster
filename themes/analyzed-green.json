@@ -1,0 +1,60 @@
+{
+  "extends": "guofeng",
+  "palette": {
+    "bg": "#E8E8C8",
+    "fg": "#181808",
+    "accent": "#284800",
+    "accent2": "#D0D0B0",
+    "muted": "#8A8A71",
+    "line": "#BABA9D",
+    "soft": "#DBDBBC"
+  },
+  "density": {
+    "line_height": 1.78
+  },
+  "_analysis": {
+    "source": "034f035b86d612bc998ab7a9a343df03bce1ceb1b8747dc8117240d4790dc42f",
+    "size": [
+      180,
+      240
+    ],
+    "dark": false,
+    "margin": 0.0024,
+    "gradient": 11.72,
+    "contrast_fg_bg": 8.59,
+    "top_colors": [
+      {
+        "color": "#E8E8C8",
+        "share": 0.2602
+      },
+      {
+        "color": "#E8E8D0",
+        "share": 0.0681
+      },
+      {
+        "color": "#D8E0C0",
+        "share": 0.0678
+      },
+      {
+        "color": "#E0E0C0",
+        "share": 0.0386
+      },
+      {
+        "color": "#F0F0D0",
+        "share": 0.0385
+      },
+      {
+        "color": "#E8E0C0",
+        "share": 0.0311
+      },
+      {
+        "color": "#E8E8C0",
+        "share": 0.0255
+      },
+      {
+        "color": "#D8D8C0",
+        "share": 0.0205
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "preset": "xhs-3x4",
+  "theme": "guofeng",
+  "skeleton": "mural",
+  "blocks": [
+    {"type": "hero", "params": {"slot": "title", "gap": 0.03, "align": "left", "scale": 0.86}},
+    {"type": "subtitle", "params": {"slot": "subtitle", "align": "left"}},
+    {"type": "seal", "params": {"slot": "seal"}},
+    {"type": "scene", "params": {"objects_pack": "tea"}},
+    {"type": "process_list", "params": {"slot": "process_1"}},
+    {"type": "process_list", "params": {"slot": "process_2"}},
+    {"type": "donut", "params": {"slot": "reasons"}},
+    {"type": "microchart", "params": {"slot": "teas", "label_w": 0.26}},
+    {"type": "timeline", "params": {"slot": "history"}},
+    {"type": "footer", "params": {"slot": "footer", "align": "center"}}
+  ]
+}

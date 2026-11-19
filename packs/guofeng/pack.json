@@ -1,0 +1,12 @@
+{
+  "name": "guofeng",
+  "version": "0.1.0",
+  "kind": "motifs",
+  "provides": {
+    "motifs": ["mountains_soft", "cloud_soft", "waves", "seal_red", "bamboo"],
+    "raster_only": []
+  },
+  "requires": {"theme": "guofeng"},
+  "targets": ["single-page", "cover", "long-flow"],
+  "notes": "国风装饰素材。形状来自 engine.geometry，颜色由调用方（theme）传入。"
+}

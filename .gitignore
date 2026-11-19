@@ -1,0 +1,15 @@
+# 缓存与编译产物
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.poster-cache/
+
+# 渲染输出（示例图除外）
+out/
+*.tmp
+
+# 编辑器
+.DS_Store
+.idea/
+.vscode/

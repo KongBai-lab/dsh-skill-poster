@@ -1,0 +1,11 @@
+{
+  "name": "tea",
+  "version": "0.1.0",
+  "kind": "objects",
+  "provides": {
+    "motifs": ["kettle", "cup", "whisk", "saucer"],
+    "raster_only": []
+  },
+  "notes": "宋代茶器半写实插画：六层绘制（投影/底/暗/亮/高光/结构线）。颜色可传，默认材质色是紫砂、建盏黑釉、竹。",
+  "targets": ["single-page", "mural", "long-flow"]
+}

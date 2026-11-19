@@ -1,0 +1,30 @@
+{
+  "meta": {"lang": "zh", "title": "Poster · 宣传图引擎"},
+  "slots": {
+    "title": "POSTER",
+    "subtitle": "写一张海报，不必动笔",
+    "body": "骨架 × 区块 × 主题，三件套拼出一张图。用 JSON 描述结构，用代码控制细节；23 个参数化图元、中文断行与竖排、PNG/SVG/PDF 三出口，全部在本机纯 Python 里跑完。",
+    "stats": [
+      {"num": "23", "label": "参数化图元"},
+      {"num": "7", "label": "版式骨架"},
+      {"num": "18", "label": "声明式区块"},
+      {"num": "0", "label": "第三方依赖"}
+    ],
+    "items": [
+      {"shape": "circle", "label": "圆"},
+      {"shape": "leaf", "label": "叶"},
+      {"shape": "cloud", "label": "云"},
+      {"shape": "star", "label": "星"},
+      {"shape": "drop", "label": "水滴"},
+      {"shape": "flower", "label": "花"}
+    ],
+    "bullets": [
+      "声明式：写 layout.json 就能排版，不用碰坐标",
+      "精细：自适应细分 + 亚像素抗锯齿，曲线不露棱角",
+      "中文优先：断行、避头尾、标点挤压、竖排",
+      "可印刷：A4 矢量 PDF，文字路径化，零字体嵌入"
+    ],
+    "cta": {"text": "对它说：用 poster 做一张图"},
+    "footer": "poster 0.1 · 纯 Python 本地渲染 · 三后端同源"
+  }
+}

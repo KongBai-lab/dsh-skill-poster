@@ -1,0 +1,14 @@
+{
+  "preset": "xhs-3x4",
+  "theme": "minimal",
+  "skeleton": "single-page",
+  "blocks": [
+    {"type": "hero", "params": {"slot": "title", "scale": 1.0}},
+    {"type": "subtitle", "params": {"slot": "subtitle"}},
+    {"type": "divider", "params": {"style": "line"}},
+    {"type": "body", "params": {"slot": "body"}},
+    {"type": "stat_row", "params": {"slot": "stats"}},
+    {"type": "bullets", "params": {"slot": "bullets"}},
+    {"type": "cta", "params": {"slot": "cta"}}
+  ]
+}

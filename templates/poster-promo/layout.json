@@ -1,0 +1,16 @@
+{
+  "preset": "xhs-3x4",
+  "theme": "tech",
+  "skeleton": "promo",
+  "blocks": [
+    {"type": "hero", "params": {"slot": "title", "gap": 0.10}},
+    {"type": "subtitle", "params": {"slot": "subtitle"}},
+    {"type": "divider", "params": {"style": "line"}},
+    {"type": "body", "params": {"slot": "body"}},
+    {"type": "stat_row", "params": {"slot": "stats", "gap": 0.03}},
+    {"type": "shape_row", "params": {"slot": "items"}},
+    {"type": "bullets", "params": {"slot": "bullets"}},
+    {"type": "cta", "params": {"slot": "cta"}},
+    {"type": "footer", "params": {"slot": "footer", "align": "center"}}
+  ]
+}

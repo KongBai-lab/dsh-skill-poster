@@ -1,0 +1,25 @@
+{
+  "preset": "info-long",
+  "theme": "tech",
+  "skeleton": "showcase",
+  "blocks": [
+    {"type": "hero", "params": {"slot": "title", "gap": 0.10}},
+    {"type": "subtitle", "params": {"slot": "subtitle"}},
+    {"type": "divider", "params": {"style": "line"}},
+    {"type": "section_title", "params": {"slot": "section_1"}},
+    {"type": "body", "params": {"slot": "body"}},
+    {"type": "shape_row", "params": {"slot": "items"}},
+    {"type": "divider", "params": {"style": "line"}},
+    {"type": "section_title", "params": {"slot": "section_2"}},
+    {"type": "stat_row", "params": {"slot": "stats", "gap": 0.03}},
+    {"type": "microchart", "params": {"slot": "chart", "label_w": 0.22}},
+    {"type": "divider", "params": {"style": "line"}},
+    {"type": "section_title", "params": {"slot": "section_3"}},
+    {"type": "timeline", "params": {"slot": "steps"}},
+    {"type": "quote", "params": {"slot": "quote", "scale": 1.05}},
+    {"type": "icon_grid", "params": {"slot": "features", "cols": 4}},
+    {"type": "divider", "params": {"style": "line"}},
+    {"type": "cta", "params": {"slot": "cta"}},
+    {"type": "footer", "params": {"slot": "footer", "align": "center"}}
+  ]
+}
