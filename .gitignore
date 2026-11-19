@@ -13,3 +13,6 @@ out/
 .DS_Store
 .idea/
 .vscode/
+
+# 本地隐私词表（不进仓库）
+.privacy-words
